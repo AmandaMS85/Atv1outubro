@@ -1,4 +1,6 @@
-📜 Portal da Literatura - Atividade 1---- ***Autor***: Amanda
+📜 Portal da Literatura - Atividade 1
+---
+***Autora***:    Amanda
 
 ----
 ***LINK DA PAG*** : https://amandams85.github.io/Atv1outubro/
